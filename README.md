@@ -16,18 +16,3 @@ Regras:
 * No nosso caso os números serão mantidos, ou seja:
     * Normal: 1
     * Cifrado: 1
-
-
-## Tópicos
-
-Neste desafio você aprenderá:
-
-* Java
-
-## Requisitos
-
-Para este desafio você precisará de:
-
-- Java 8 (ou superior)
-- Git
-
